@@ -1,0 +1,50 @@
+const resume = {
+
+}
+"name": "John Doe",
+"title": "software Engineer",
+"contact": {
+    "email":"john doe@example.com",
+    "phone": "434736744788738",
+    "address": "123 Main street,city,country"
+
+},
+"summary": "experienced software engineer with a passion for creating efficient and scalable solutions.skilled in javascript,python,nand Java.",
+"experience":
+{
+    "position": "senior software Engineer",
+    "company":"TechCorp",
+    "location": "city,"country",
+    "dates": "january 2024 - present",
+    "responsiblities":[
+        "Developed and maintained web applications using react.js and node.js.",
+
+    ]
+
+}
+"education":[
+    {
+        "degree": "bachelor of engineering in Electronics communication  and Engineering',
+        "institution": "Anna University",
+        "Loaction": "city,country",
+        "dates":"2018 - 2022"
+
+    
+
+    }
+],
+"Skills":[
+    "javascript",
+    "Html",
+    "css",
+    "c",
+
+]
+
+
+
+
+
+
+
+
